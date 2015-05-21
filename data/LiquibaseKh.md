@@ -14,3 +14,6 @@ http://www.liquibase.org/documentation/sql_format.html
 
 +++ Docu
 http://www.liquibase.org/documentation/index.html
+
++++ Spring
+http://www.liquibase.org/documentation/spring.html
