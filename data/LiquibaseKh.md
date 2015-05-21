@@ -1,17 +1,16 @@
--- LiquibaseKh
+++ LiquibaseKh
 
---- Home
++++ Home
 http://www.liquibase.org
 
---- JIRA
++++ JIRA
 https://liquibase.jira.com/projects/CORE
 
-
---- GitHub
++++ GitHub
 https://github.com/liquibase/liquibase
 
---- Sample SQL
++++ Sample SQL
 http://www.liquibase.org/documentation/sql_format.html
 
---- Docu
++++ Docu
 http://www.liquibase.org/documentation/index.html
